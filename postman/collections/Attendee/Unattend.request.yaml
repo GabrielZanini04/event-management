@@ -1,0 +1,7 @@
+$kind: http-request
+name: Unattend
+url: "{{BASE_URL}}events/10/attendees/1313"
+method: DELETE
+headers:
+  Accept: application/json
+order: 4152753156528635

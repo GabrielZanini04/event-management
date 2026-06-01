@@ -1,0 +1,14 @@
+$kind: http-request
+name: Update an event
+url: "{{BASE_URL}}events/1"
+method: PUT
+headers:
+  Accept: application/json
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\": \"OIIIIIIIIIIIIII, teste 2\"\r
+
+    }"
+order: 4260349956905193

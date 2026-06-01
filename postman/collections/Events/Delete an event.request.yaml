@@ -1,0 +1,9 @@
+$kind: http-request
+url: "{{BASE_URL}}events/1"
+method: DELETE
+headers:
+  Accept: application/json
+body:
+  type: json
+  content: ""
+order: 4483847938616738

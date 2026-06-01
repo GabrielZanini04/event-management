@@ -1,0 +1,5 @@
+$kind: http-request
+name: Single Event
+url: "{{BASE_URL}}events/3"
+method: GET
+order: 1779472401262

@@ -1,0 +1,5 @@
+$kind: http-request
+name: Event Attendee
+url: "{{BASE_URL}}events/10/attendees/1551"
+method: GET
+order: 4494683841850494

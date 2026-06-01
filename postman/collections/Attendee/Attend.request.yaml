@@ -1,0 +1,6 @@
+$kind: http-request
+url: "{{BASE_URL}}events/10/attendees/"
+method: POST
+headers:
+  Accept: application/json
+order: 4496166979170759
